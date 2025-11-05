@@ -1,31 +1,32 @@
-👋 Hola, soy <Tu Ian Alejandro Hernández Gutiérrez>
+## 👋 Hola, soy Ian Alejandro Hernández Gutiérrez
+### Sobre mi:
+Entusiasmado en poder utilizar mis habilidades como Data Analyst.
+  - Finalizando el programa de estudios de TripleTen como Data analyst.
 
-🚀 Mi Stack de Habilidades
+#### 🚀 Mi Stack de Habilidades
 
-  -Mi experiencia se centra en el ciclo de vida completo del análisis de datos, desde la extracción hasta la visualización y presentación de resultados.
+  - Mi experiencia se centra en el ciclo de vida completo del análisis de datos, desde la extracción hasta la visualización y presentación de resultados.
 
-  -Categoría
+  - Categoría
 
-  -Herramientas y Tecnologías
+  - Herramientas y Tecnologías
 
-  -Bases de Datos & ETL
+  - Bases de Datos & ETL
 
-  -SQL (PostgreSQL/MySQL), SQLite, Google Sheets
+  - SQL (PostgreSQL/MySQL), SQLite, Google Sheets
 
-  -Lenguajes de Programación
+  - Lenguajes de Programación
 
-  -Python (Intermedio/Avanzado)
+  - Python (Intermedio/Avanzado)
 
-  -Librerías Clave
+  - Librerías Clave
 
-  -Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-  -Reporting & Visualización
+  - Reporting & Visualización
 
-  -Microsoft Excel (Avanzado), Tableau, Power BI (Conceptos)
+  - Microsoft Excel (Avanzado), Tableau, Power BI (Conceptos)
 
-  -Control de Versiones
+  - Control de Versiones
 
-  -Git, GitHub
-
-📊 Portafolio destacado
+  - Git, GitHub
