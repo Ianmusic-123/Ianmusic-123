@@ -1,8 +1,4 @@
-👋 Hola, soy <Tu Nombre Completo>
-
-Analista de Datos con base sólida en finanzas y un portafolio de 14 proyectos prácticos desarrollados en el Bootcamp de <Menciona tu Bootcamp - Ej: Analista de Datos de TripleTen>. Mi enfoque se centra en transformar datos complejos en información estratégica para la toma de decisiones.
-
-Estoy en constante búsqueda de roles que requieran combinar habilidades de análisis financiero con la ingeniería de datos para generar impacto real en el negocio.
+👋 Hola, soy <Tu Ian Alejandro Hernández Gutiérrez>
 
 🚀 Mi Stack de Habilidades
 
