@@ -30,3 +30,21 @@ Entusiasmado en poder utilizar mis habilidades como Data Analyst.
   - Control de Versiones
 
   - Git, GitHub
+## 🛠️ Lenguajes y herramientas:
+
+* **PYTHON** | **MYSQL** | **MICROSOFT EXCEL** | **POWER BI**
+
+---
+
+## 🔥 Mis estadísticas:
+
+| 123 | 0 | 4 |
+| :---: | :---: | :---: |
+| **Total Contributions** | **Current Streak** | **Longest Streak** |
+| Jun 10 - Present | Sep 28 | Sep 2 - Sep 5 |
+
+---
+
+### Most Used Languages
+
+**Python** 100.00%
