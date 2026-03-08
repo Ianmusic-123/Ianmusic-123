@@ -22,7 +22,9 @@ Entusiasta de transformar datos complejos en decisiones estratégicas. Recientem
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ianmusic-123&show_icons=true&theme=tokyonight" alt="Estadísticas de Ian" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianmusic-123&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 ---
 
 ### 📂 Proyectos Destacados
