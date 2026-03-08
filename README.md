@@ -1,52 +1,41 @@
-##  <div align="center"> 👋 Hola, soy Ian Alejandro Hernández Gutiérrez
-### Sobre mi:
-Entusiasmado en poder utilizar mis habilidades como Data Analyst.
-  - Finalizando el programa de estudios de TripleTen como Data analyst.
+# 👋 Hola, soy Ian Alejandro Hernández Gutiérrez
+----------------------------------------------------
+### 📊 Junior Data Analyst | Especialista en Extracción y Visualización de Datos
 
-#### 🚀 Mi Stack de Habilidades
-
-  - Mi experiencia se centra en el ciclo de vida completo del análisis de datos, desde la extracción hasta la visualización y presentación de resultados.
-
-  - Categoría
-
-  - Herramientas y Tecnologías
-
-  - Bases de Datos & ETL
-
-  - SQL (PostgreSQL/MySQL), SQLite, Google Sheets
-
-  - Lenguajes de Programación
-
-  - Python (Intermedio/Avanzado)
-
-  - Librerías Clave
-
-  - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-  - Reporting & Visualización
-
-  - Microsoft Excel (Avanzado), Tableau, Power BI (Conceptos)
-
-  - Control de Versiones
-
-  - Git, GitHub
-
-## 🛠️ Lenguajes y herramientas
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()  
+Entusiasta de transformar datos complejos en decisiones estratégicas. Recientemente finalicé mi especialización en **TripleTen**, donde desarrollé un enfoque integral en el ciclo de vida del análisis de datos.
 
 ---
 
-## 🔥 Mis estadísticas
-<div align="center">
+### 🛠️ Mi Stack Tecnológico
 
-<!-- GitHub Stats sin la letra "C" -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ianmusic-123&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+| Categoría | Herramientas & Tecnologías |
+| :--- | :--- |
+| **Bases de Datos & ETL** | `SQL (PostgreSQL, MySQL, SQLite)`, `Google Sheets` |
+| **Lenguajes** | `Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)` |
+| **Visualización** | `Tableau`, `Power BI`, `Excel Avanzado` |
+| **Control de Versiones** | `Git`, `GitHub` |
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Ianmusic-123&theme=react&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+---
 
+### 📈 Mis Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de Ian" />
+</p>
+
+---
+
+### 📂 Proyectos Destacados
+*Aquí deberías añadir 2 o 3 links directos a tus mejores repositorios con una breve descripción.*
+
+* **[Nombre del Proyecto](link):** Análisis de churn utilizando modelos de clasificación en Python.
+* **[Optimización de Ventas](link):** Dashboard interactivo en Tableau con limpieza de datos en SQL.
+
+---
+
+### 📫 Contacto:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
 </div>
 
 ---
