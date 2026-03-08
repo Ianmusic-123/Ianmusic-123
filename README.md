@@ -18,11 +18,8 @@ Entusiasta de transformar datos complejos en decisiones estratégicas. Recientem
 ---
 
 ### 📈 Mis Estadísticas de GitHub
-### 📈 Mis Estadísticas de GitHub
 
-![Estadísticas de Ian](https://github-readme-stats.vercel.app/api?username=Ianmusic-123&show_icons=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianmusic-123&layout=compact&theme=tokyonight)
+![Estadísticas de Ian](https://github-readme-streak-stats.herokuapp.com/?user=Ianmusic-123&theme=tokyonight&hide_border=true)
 
 ---
 
