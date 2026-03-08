@@ -20,7 +20,7 @@ Entusiasta de transformar datos complejos en decisiones estratégicas. Recientem
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de Ian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ianmusic-123&show_icons=true&theme=tokyonight" alt="Estadísticas de Ian" />
 </p>
 
 ---
