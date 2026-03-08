@@ -23,19 +23,12 @@ Entusiasta de transformar datos complejos en decisiones estratégicas. Recientem
 ![Estadísticas de Ian](https://github-readme-stats.vercel.app/api?username=Ianmusic-123&show_icons=true&theme=tokyonight)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianmusic-123&layout=compact&theme=tokyonight)
----
-
-### 📂 Proyectos Destacados
-*Aquí deberías añadir 2 o 3 links directos a tus mejores repositorios con una breve descripción.*
-
-* **[Nombre del Proyecto](link):** Análisis de churn utilizando modelos de clasificación en Python.
-* **[Optimización de Ventas](link):** Dashboard interactivo en Tableau con limpieza de datos en SQL.
 
 ---
 
 ### 📫 Contacto:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianalejandroanalistadedatos/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iannava2021@gmail.com)
 </div>
 
 ---
