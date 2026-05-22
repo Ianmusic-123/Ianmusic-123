@@ -10,7 +10,7 @@ Entusiasta de transformar datos complejos en decisiones estratégicas. Recientem
 
 | Categoría | Herramientas & Tecnologías |
 | :--- | :--- |
-| **Bases de Datos & ETL** | `SQL (PostgreSQL, MySQL, SQLite)`, `Google Sheets` |
+| **Bases de Datos & ETL** | `SQL (PostgreSQL, MySQL, SQLite)`|
 | **Lenguajes** | `Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)` |
 | **Visualización** | `Tableau`, `Power BI`, `Excel Avanzado` |
 | **Control de Versiones** | `Git`, `GitHub` |
